@@ -1,85 +1,150 @@
-<h1 align="center">Hi, I'm Yash Makkar 👋</h1>
-<h3 align="center">Backend Engineer | Spring Boot • Java</h3>
-<p align="center">Also building on React when the project needs a full-stack hand</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashmkr108&label=Profile%20Views&color=6DB33F&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/yash-makkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6DB33F?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yash.mkr108@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6DB33F?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=180&section=header&text=Yash%20Makkar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+
+<p>
+<a href="https://linkedin.com/in/yash-makkar"><img src="https://img.shields.io/badge/LinkedIn-6DB33F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yash.mkr108@gmail.com"><img src="https://img.shields.io/badge/Email-6DB33F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/yashmkr108"><img src="https://img.shields.io/badge/GitHub-6DB33F?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+</div>
+
+## About Me
+
+I'm a Computer Science and Engineering graduate and backend-focused software developer. Over five months on-site at Avadna Services, I independently built and deployed **GeniusHub**, a live multi-role Next.js EdTech platform serving admins, mentors, students, advisors, and schools.
+
+I'm comfortable across the stack — React, TypeScript, Node.js, Express, MySQL, MongoDB — with a particular focus on REST API design, authentication systems, and production deployment. Right now I'm deepening my backend fundamentals with **Java and Spring Boot**, alongside data structures, algorithms, and system design.
+
+<br/>
+
+## Currently Learning
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-6DB33F?style=for-the-badge&logo=materialdesignicons&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-6DB33F?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
----
+Building on a Node.js and Express background, I'm applying the same REST API and authentication patterns in Java with Spring Boot — moving from JavaScript-first backends toward strongly-typed, enterprise-grade service design.
 
-### 🚀 About Me
+<br/>
 
-- 🔧 Backend-focused engineer — building APIs, auth systems, and integrations, with **Spring Boot** as my core tool
-- ⚛️ Also work across the stack with **React** and **Next.js** when a project needs a complete solution
-- 🎓 CS graduate, currently deepening my **Java, Spring Boot, and system design** foundations
-- 💼 Software Developer Intern @ Avadna Services — shipped a live multi-role EdTech platform end to end
-- 🗄️ Comfortable with REST API design, relational + NoSQL databases, and cloud deployment (AWS EC2)
+## Tech Stack
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-6DB33F?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-6DB33F?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-6DB33F?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-6DB33F?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-6DB33F?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-6DB33F?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-6DB33F?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-6DB33F?style=for-the-badge&logo=postman&logoColor=white" />
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
----
-
-### 📌 Featured Project
-
-#### 🎓 GeniusHub — Multi-Role EdTech Platform
-
-*Next.js · React · Tailwind CSS · MySQL · deployed on AWS EC2*
-
-Independently built and deployed a live EdTech platform serving five distinct roles — admin, mentor, student, advisor, and school.
-
-- 🧩 **70+ production API routes** powering auth, course management, registrations, and referrals
-- 🖥️ **29-page admin interface** covering courses, registrations, mentors, referrals, content, and templates
-- 🔐 Credentials + Google OAuth sign-in, OTP-based admin access, bcrypt hashing, Zod validation, role-based authorization
-- 💳 Razorpay payment integration, automated email workflows, Excel exports, analytics dashboards
-- ☁️ Deployed on AWS EC2 with Node.js, PM2, Nginx, and SSL/HTTPS
-
-**[Live Demo](#)** &nbsp;•&nbsp; **[GitHub Repo](#)**
-
-> Replace the `#` links above with your live GeniusHub URL and repo link.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashmkr108&show_icons=true&hide_border=true&count_private=true&title_color=6DB33F&icon_color=6DB33F&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmkr108&hide_border=true&background=00000000&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak" height="165" />
+**Backend**
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmkr108&layout=compact&hide_border=true&title_color=6DB33F&text_color=ffffff&bg_color=00000000" alt="Top Langs" height="165" />
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmkr108&color=6DB33F&line=6DB33F&point=ffffff&area_color=6DB33F&hide_border=true&bg_color=00000000" alt="activity graph" />
+**Databases**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-  📍 Faridabad, Haryana, India &nbsp;|&nbsp; 📧 yash.mkr108@gmail.com
+**Auth & Integrations**
+<p>
+<img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/bcrypt-6DB33F?style=flat-square" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
+<img src="https://img.shields.io/badge/Nodemailer-6DB33F?style=flat-square" />
 </p>
+
+**Cloud & DevOps**
+<p>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square" />
+<img src="https://img.shields.io/badge/SSL%2FHTTPS-6DB33F?style=flat-square&logo=letsencrypt&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Bruno-F5A623?style=flat-square&logo=bruno&logoColor=white" />
+</p>
+
+<br/>
+
+## Experience
+
+**Software Developer Intern** — Avadna Services Pvt. Ltd., Faridabad (On-site)
+*Feb 2026 – Jul 2026*
+
+- Independently developed **GeniusHub**, a live multi-role EdTech platform (Next.js, React, Tailwind CSS, MySQL) covering admin, mentor, student, advisor, and school workflows.
+- Built 70+ production API routes for authentication, course management, registration, referrals, and administrative workflows across five platform roles.
+- Delivered a 29-page admin interface spanning course, registration, mentor, referral, content, template, and user management.
+- Implemented credentials and Google OAuth sign-in, OTP-based admin access, bcrypt verification, Zod validation, and role-based API authorization.
+- Integrated Razorpay payments, automated and manual email workflows, Excel registration exports, analytics views, and enrollment management.
+- Deployed the application on AWS EC2, configuring Node.js, PM2, Nginx, SSL/HTTPS, environment variables, and database connectivity.
+
+<br/>
+
+## Featured Projects
+
+### ELCO — Online Voting System
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+
+Full-stack voting application with 11 client-side routes, 29 custom React components, 20 REST endpoints, and four Mongoose data models. Separate JWT authentication flows for voters and administrators, bcrypt password hashing, Zod validation, protected routes, and one-vote-per-election enforcement. Admin and user dashboards built with Zustand and Chart.js for election lifecycle management and result visualization.
+
+<br/>
+
+## Education
+
+**Bachelor of Technology in Computer Science and Engineering** — 2022 – 2026
+Satyug Darshan Institute of Engineering and Technology, Faridabad
+*Coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks*
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yashmkr108&theme=transparent&hide_border=true&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&background=00000000"
+    width="55%"
+    alt="GitHub Streak"
+  />
+</div>
+
+<div align="center">
+
+### Let's build something
+
+<a href="mailto:yash.mkr108@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-6DB33F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yash-makkar"><img src="https://img.shields.io/badge/Connect-6DB33F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=100&section=footer" width="100%"/>
