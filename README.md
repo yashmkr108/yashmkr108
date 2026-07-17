@@ -125,17 +125,6 @@ Full-stack voting application with 11 client-side routes, 29 custom React compon
 Satyug Darshan Institute of Engineering and Technology, Faridabad
 *Coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks*
 
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yashmkr108&theme=transparent&hide_border=true&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&background=00000000"
-    width="55%"
-    alt="GitHub Streak"
-  />
-</div>
 
 <div align="center">
 
